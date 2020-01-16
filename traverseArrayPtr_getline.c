@@ -1,7 +1,7 @@
 // C code to do a basic traversal (for loop).
 // of an array by both pointer and array notation.
 //
-// also shows basic use of getline() function
+// Also shows basic use of getline() function.
 
 #include <stdio.h>
 #include <stdlib.h>
