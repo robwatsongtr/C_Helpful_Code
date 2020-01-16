@@ -1,4 +1,5 @@
 // Robert's "replace foo with bar in in input" state machine program 
+// Written by Robert Diamond
 
 #include <stdio.h>
 
